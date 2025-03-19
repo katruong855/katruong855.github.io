@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hiya! I’m Karen, a Junior studying Linguistics and Computer Science at UCLA! I’m a 2D artist/animator, UI/UX designer, & programmer. I love character design, worldbuilding, and storytelling in all its forms, especially in games. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My favorite games include P5R, Splatoon, Hades, and Psychonauts. When I’m not game dev’ing, I’m drawing fanart, binging webcomics/manga/anime, or committing to the bit.
 
 
-[jekyll-organization]: https://github.com/jekyll
