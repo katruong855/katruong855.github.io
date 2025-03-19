@@ -4,4 +4,4 @@
 
 layout: home
 ---
-https://linktr.ee/karentruong
+[Linktree](https://linktr.ee/karentruong)
