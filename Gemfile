@@ -14,9 +14,9 @@ gem "minima", "~> 2.5"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
+# https://github.com/MihajloNesic/jekyll-pdf-embed
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  #https://github.com/MihajloNesic/jekyll-pdf-embed
   gem "jekyll-pdf-embed"
   
 end
