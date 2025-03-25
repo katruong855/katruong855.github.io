@@ -25,3 +25,11 @@ layout: home
 ![image info](./portfolio/umeko_sprites_ACM.png)
 
 ![image info](./portfolio/diego_ACM.png)
+
+## On My Own 
+### A 2D puzzle platformer for ACM Studio. [*Play the demo on Itch.io!*](https://kmbusybee.itch.io/on-my-own)
+![image info](./portfolio/danny_concept_OMO.png)
+
+![image info](./portfolio/lizard_mech.png)
+
+![image info](./portfolio/end.png)
