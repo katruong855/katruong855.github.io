@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 Hiya! I’m Karen, a Junior studying Linguistics and Computer Science at UCLA! I’m a 2D artist/animator, UI/UX designer, & programmer. I love character design, worldbuilding, and storytelling in all its forms, especially in games. 
