@@ -1,11 +1,7 @@
 ---
-layout: page
+layout: embed
 title: Resume
 permalink: /resume/
-order: 2
+order: 3
+filepath: ../assets/pdfs/resume_2025.pdf
 ---
-
-
-
-
-
